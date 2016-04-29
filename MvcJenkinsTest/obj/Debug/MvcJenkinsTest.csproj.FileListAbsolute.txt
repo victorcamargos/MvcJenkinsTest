@@ -1,0 +1,94 @@
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\MvcJenkinsTest.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\MvcJenkinsTest.pdb
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Antlr3.Runtime.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.AspNet.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.Core.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\EntityFramework.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Newtonsoft.Json.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.WebRequest.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Helpers.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Mvc.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Optimization.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Razor.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Razor.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebGrease.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.Data.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.WebData.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\EntityFramework.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Newtonsoft.Json.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.WebRequest.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Helpers.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Mvc.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Razor.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Razor.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.Data.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.WebData.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.AspNet.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.Core.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.csprojResolveAssemblyReference.cache
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.dll
+c:\users\ac-vgomes\documents\visual studio 2010\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.pdb
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\MvcJenkinsTest.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\MvcJenkinsTest.pdb
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Antlr3.Runtime.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.AspNet.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.Core.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\EntityFramework.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Newtonsoft.Json.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.WebRequest.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Helpers.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Mvc.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Optimization.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Razor.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Deployment.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Razor.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebGrease.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.Data.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.WebData.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\EntityFramework.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Newtonsoft.Json.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Net.Http.WebRequest.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Helpers.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Mvc.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.Razor.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Deployment.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\System.Web.WebPages.Razor.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.Data.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\WebMatrix.WebData.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.AspNet.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.Core.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.csprojResolveAssemblyReference.cache
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.dll
+D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.pdb
