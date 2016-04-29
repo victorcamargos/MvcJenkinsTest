@@ -89,6 +89,5 @@ D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.Consum
 D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OAuth.xml
 D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.xml
 D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.csprojResolveAssemblyReference.cache
 D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.dll
 D:\Victor\Projects\MvcJenkinsTest\MvcJenkinsTest\obj\Debug\MvcJenkinsTest.pdb
